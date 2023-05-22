@@ -11,7 +11,7 @@ import requests
 logging.basicConfig(level=logging.INFO)
 
 # Load OpenAI API key
-openai.api_key = ("sk-efqaf43t34wt34t45tg3qt2qt")
+openai.api_key = ("sk-efqaf43t34wt34t45tg3qt2qt") # No worry this isn't a real one :)
 
 
 # Load prompt content
